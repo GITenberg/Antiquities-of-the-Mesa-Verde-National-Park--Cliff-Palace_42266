@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7741
     wikipedia: http://en.wikipedia.org/wiki/J._Walter_Fewkes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42266#Antiquities-of-the-Mesa-Verde-National-Park--Cliff-Palace
 gutenberg_issued: '2013-03-05'
 gutenberg_type: Text
 identifiers:
